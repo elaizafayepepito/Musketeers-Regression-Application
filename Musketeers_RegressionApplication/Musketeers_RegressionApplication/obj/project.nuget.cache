@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MvxgL3bpYFtYrL/NjzBk8cYwkxnM6509Ay1yRJrpkeE0CQKGnctHugmSfmUd9VuuYTLNgq6vqf9Ul8aOYpdUKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gecko\\Documents\\3RD YEAR C1\\CS346\\Musketeers_RegressionApplication\\Musketeers_RegressionApplication\\Musketeers_RegressionApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gecko\\.nuget\\packages\\accord\\3.8.0\\accord.3.8.0.nupkg.sha512",
+    "C:\\Users\\Gecko\\.nuget\\packages\\accord.math\\3.8.0\\accord.math.3.8.0.nupkg.sha512",
+    "C:\\Users\\Gecko\\.nuget\\packages\\accord.statistics\\3.8.0\\accord.statistics.3.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
