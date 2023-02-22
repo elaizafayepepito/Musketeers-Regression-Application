@@ -52,7 +52,7 @@ namespace Musketeers_RegressionApplication
             var age = textBox1.Text;
             var height = textBox2.Text;
             var weight = textBox3.Text;
-            //double[] input = { 21, 154, 45 };
+
             double[] input = { Convert.ToDouble(age), Convert.ToDouble(height), Convert.ToDouble(weight) };
             double prediction = regression.Transform(input);
             textBox4.Text = "Php " + prediction.ToString("F");

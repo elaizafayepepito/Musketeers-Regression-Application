@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\Gecko\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Gecko\\.nuget\\packages"
+      "C:\\Users\\Elaiza Faye\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Elaiza Faye\\.nuget\\packages"
     ],
     "configProperties": {
       "Microsoft.NETCore.DotNetHostPolicy.SetAppPaths": true
